@@ -3,7 +3,7 @@
 // Instructor: Tong Yi
 // Assignment: Lab3B
 
-
+// Write a program minmax.cpp that finds the minimum and maximum storage in East basin in 2018.
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
